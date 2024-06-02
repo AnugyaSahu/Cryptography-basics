@@ -8,6 +8,6 @@ Implementation of cryptography basic algorithms -
 - Chinese Remainder Theorem
 - RSA Cryptosystem Algorithm
 - Quadratic cipher
-- Quadratic residue ------ eulers criteria
+- Quadratic residue (eulers criteria)
 - Charmichael number, miller rabin test, Fermat factorization
 - Pollards p-1 algorithm, Monte-Carlo factorization
